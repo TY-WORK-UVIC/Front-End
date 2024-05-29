@@ -1,5 +1,5 @@
 ### A multi-purpose website
-Track every place you go in the world.
+Track every place you go in the world. Using different API to complete it
 
 
 ### How to run it
